@@ -53,7 +53,6 @@ Project/Sources/
   Forms/HDI2           demo form (Write Pro area, link buttons)
   TableForms/          input/output forms for [Person] and [SAMPLES]
   Methods/00_Start     startup / menu entry point
-  Methods/Decorate     Write Pro table formatting sample (not called by the demo)
   styleSheets*.css     dark mode and platform styles
 Resources/
   doc.4wp              the sample Write Pro document
