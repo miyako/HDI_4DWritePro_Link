@@ -1,4 +1,6 @@
 
+var $path : Text
+
 Case of 
 	: (Form event code:C388=On Load:K2:1)
 		
@@ -7,7 +9,7 @@ Case of
 		urlGet:=""
 		
 		
-		$Path:=Get 4D folder:C485(Current resources folder:K5:16)+"doc.4wp"
+		$path:=Get 4D folder:C485(Current resources folder:K5:16)+"doc.4wp"
 		WriteProArea:=WP Import document:C1318($path)
 		
 		

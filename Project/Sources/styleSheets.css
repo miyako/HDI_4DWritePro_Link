@@ -1,0 +1,17 @@
+@media (prefers-color-scheme: light) {
+	.code {
+		stroke: #191970;
+	}
+	.attr {
+		stroke: #008000;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	.code {
+		stroke: #9DB4FF;
+	}
+	.attr {
+		stroke: #5FD35F;
+	}
+}

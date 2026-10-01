@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="Project/Sources/TableForms/3/Input/form.4DForm" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="SAMPLES_Input_Text7" resname="SAMPLES_Input_Text7">
+				<source>SAMPLES</source>
+				<target>SAMPLES</target>
+			</trans-unit>
+			<trans-unit id="SAMPLES_Input_Text9" resname="SAMPLES_Input_Text9">
+				<source>ID : </source>
+				<target>ID : </target>
+			</trans-unit>
+			<trans-unit id="SAMPLES_Input_Text10" resname="SAMPLES_Input_Text10">
+				<source>SampleSort : </source>
+				<target>SampleSort : </target>
+			</trans-unit>
+			<trans-unit id="SAMPLES_Output_S1_Text" resname="SAMPLES_Output_S1_Text">
+				<source>ID : </source>
+				<target>ID : </target>
+			</trans-unit>
+			<trans-unit id="SAMPLES_Output_S2_Text" resname="SAMPLES_Output_S2_Text">
+				<source>Title : </source>
+				<target>Title : </target>
+			</trans-unit>
+			<trans-unit id="SAMPLES_Output_S3_Text" resname="SAMPLES_Output_S3_Text">
+				<source>Text : </source>
+				<target>Text : </target>
+			</trans-unit>
+			<trans-unit id="SAMPLES_Output_S4_Text" resname="SAMPLES_Output_S4_Text">
+				<source>SampleSort : </source>
+				<target>SampleSort : </target>
+			</trans-unit>
+			<trans-unit id="SAMPLES_Input_Text11" resname="SAMPLES_Input_Text11">
+				<source>Text : </source>
+				<target>Text : </target>
+			</trans-unit>
+			<trans-unit id="SAMPLES_Input_Text12" resname="SAMPLES_Input_Text12">
+				<source>Title : </source>
+				<target>Title : </target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

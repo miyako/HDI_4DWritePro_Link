@@ -69,7 +69,8 @@
 					"sizingX": "grow",
 					"fontFamily": "System Font",
 					"fontSize": 12,
-					"text": "ID : "
+					"text": ":xliff:Person_Output_S1_Text",
+					"stroke": "automatic"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -80,7 +81,8 @@
 					"sizingX": "grow",
 					"fontFamily": "System Font",
 					"fontSize": 12,
-					"text": "OB_Field : "
+					"text": ":xliff:Person_Output_S2_Text",
+					"stroke": "automatic"
 				},
 				"Rectangle4": {
 					"type": "rectangle",
@@ -119,7 +121,8 @@
 						"onDisplayDetail",
 						"onDataChange",
 						"onPrintingDetail"
-					]
+					],
+					"stroke": "automatic"
 				},
 				"S2_Field": {
 					"type": "input",
@@ -132,7 +135,7 @@
 					"dataSourceTypeHint": "object",
 					"fontFamily": "System Font",
 					"fontSize": 12,
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -147,7 +150,8 @@
 						"onDisplayDetail",
 						"onDataChange",
 						"onPrintingDetail"
-					]
+					],
+					"stroke": "automatic"
 				},
 				"Line5": {
 					"type": "line",

@@ -46,7 +46,7 @@
 							"maxWidth": 32000,
 							"stroke": "automatic",
 							"fill": "automatic",
-							"alternateFill": "automatic",
+							"alternateFill": "automaticAlternate",
 							"textAlign": "automatic",
 							"verticalAlign": "automatic",
 							"events": [
@@ -65,8 +65,10 @@
 								"stroke": "automatic",
 								"fill": "automatic",
 								"textAlign": "automatic",
-								"verticalAlign": "automatic"
-							}
+								"verticalAlign": "automatic",
+								"truncateMode": "none"
+							},
+							"truncateMode": "none"
 						},
 						{
 							"name": "Column2",
@@ -75,7 +77,7 @@
 							"maxWidth": 32000,
 							"stroke": "automatic",
 							"fill": "automatic",
-							"alternateFill": "automatic",
+							"alternateFill": "automaticAlternate",
 							"textAlign": "automatic",
 							"verticalAlign": "automatic",
 							"events": [
@@ -94,8 +96,10 @@
 								"stroke": "automatic",
 								"fill": "automatic",
 								"textAlign": "automatic",
-								"verticalAlign": "automatic"
-							}
+								"verticalAlign": "automatic",
+								"truncateMode": "none"
+							},
+							"truncateMode": "none"
 						}
 					]
 				}

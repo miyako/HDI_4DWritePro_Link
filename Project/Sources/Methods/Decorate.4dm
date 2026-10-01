@@ -1,12 +1,8 @@
-//%attributes = {}
-C_LONGINT:C283($1)
+//%attributes = {"invisible":true}
+#DECLARE($part : Integer)
 
-C_LONGINT:C283($part)
-
-
-$part:=$1
-
-
+var $i; $total; $rnd : Integer
+var $row; $col; $range : Object
 
 Case of 
 	: ($part=1)  // create table
@@ -32,7 +28,7 @@ Case of
 		
 		$total:=0
 		
-		$row:=WP Table append row:C1474(WPtable; ""; "Name"; "Date"; "Value")
+		$row:=WP Table append row:C1474(WPtable; ""; Localized string("Decorate_Name"); Localized string("Decorate_Date"); Localized string("Decorate_Value"))
 		
 		For ($i; 1; 10)
 			$rnd:=(Random:C100*1000)+Random:C100%1000
@@ -41,7 +37,7 @@ Case of
 			$row:=WP Table append row:C1474(WPtable; _pictures{$i}; $_Names{$i}; Current date:C33+(Random:C100%100); $rnd)
 		End for 
 		
-		$row:=WP Table append row:C1474(WPtable; ""; "Total"; ""; $total)
+		$row:=WP Table append row:C1474(WPtable; ""; Localized string("Decorate_Total"); ""; $total)
 		
 	: ($part=2) & (Not:C34(OB Is empty:C1297(WPtable)))  // decorate table
 		

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="Project/Sources/Forms/HDI2/form.4DForm" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="HDI2_TabPage1" resname="HDI2_TabPage1">
+				<source>Page 1</source>
+				<target>ページ 1</target>
+			</trans-unit>
+			<trans-unit id="HDI2_TabPage2" resname="HDI2_TabPage2">
+				<source>Page 2</source>
+				<target>ページ 2</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Button" resname="HDI2_Button">
+				<source>Demo</source>
+				<target>デモ</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Text10" resname="HDI2_Text10">
+				<source>A new attribute can now be set to a range:</source>
+				<target>範囲に新しい属性を設定できるようになりました:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Text14" resname="HDI2_Text14">
+				<source>When a range contains a link, it can also be retrieved using the same attribute:</source>
+				<target>範囲にリンクが含まれている場合、同じ属性を使用して取得することもできます:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_SetLink1" resname="HDI2_SetLink1">
+				<source>Set Link</source>
+				<target>リンクを設定</target>
+			</trans-unit>
+			<trans-unit id="HDI2_GetLink" resname="HDI2_GetLink">
+				<source>Get Link</source>
+				<target>リンクを取得</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Text4" resname="HDI2_Text4">
+				<source>#1) The link for &quot;Sony&quot; is missing. Select &quot;Sony&quot; then click the button &quot;Set Link&quot;.</source>
+				<target>#1) 「Sony」のリンクがありません。「Sony」を選択して「リンクを設定」ボタンをクリックしてください。</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Text5" resname="HDI2_Text5">
+				<source>#3) In order to read the link of &quot;Apple&quot; simply select the text then click &quot;Get Link&quot;</source>
+				<target>#3) 「Apple」のリンクを読み取るには、テキストを選択して「リンクを取得」をクリックします。</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Text" resname="HDI2_Text">
+				<source>Link:</source>
+				<target>リンク:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_btnHtml" resname="HDI2_btnHtml">
+				<source>Export to HTML</source>
+				<target>HTML に書き出す</target>
+			</trans-unit>
+			<trans-unit id="HDI2_btnHtml1" resname="HDI2_btnHtml1">
+				<source>Save locally</source>
+				<target>ローカルに保存</target>
+			</trans-unit>
+			<trans-unit id="HDI2_btnHtml2" resname="HDI2_btnHtml2">
+				<source>Open locally</source>
+				<target>ローカルから開く</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Text1" resname="HDI2_Text1">
+				<source>Link:</source>
+				<target>リンク:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_SetLink2" resname="HDI2_SetLink2">
+				<source>Set Link</source>
+				<target>リンクを設定</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Text2" resname="HDI2_Text2">
+				<source>Link:</source>
+				<target>リンク:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Text3" resname="HDI2_Text3">
+				<source>#2) The 4D Logo can also hold a link. Select it then set the link.</source>
+				<target>#2) 4D ロゴにもリンクを設定できます。ロゴを選択してリンクを設定してください。</target>
+			</trans-unit>
+			<trans-unit id="HDI2_btnHtml3" resname="HDI2_btnHtml3">
+				<source>Insert Date</source>
+				<target>日付を挿入</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Text6" resname="HDI2_Text6">
+				<source>Note: Text styles override the default style of the links as in the country names.</source>
+				<target>注: 国名のように、テキストスタイルはリンクの既定のスタイルより優先されます。</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

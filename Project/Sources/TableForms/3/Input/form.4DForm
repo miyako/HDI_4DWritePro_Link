@@ -42,7 +42,7 @@
 					"width": 100,
 					"height": 12,
 					"dataSource": "vRecNum",
-					"stroke": "#000000",
+					"stroke": "automatic",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 9,
 					"focusable": false,
@@ -69,11 +69,11 @@
 					"width": 380,
 					"height": 17,
 					"sizingX": "grow",
-					"stroke": "#000000",
+					"stroke": "automatic",
 					"fontFamily": "Lucida Grande Bold",
 					"fontSize": 13,
 					"fontWeight": "bold",
-					"text": "SAMPLES"
+					"text": ":xliff:SAMPLES_Input_Text7"
 				},
 				"Line8": {
 					"type": "line",
@@ -224,7 +224,8 @@
 					"textAlign": "right",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"text": "ID : "
+					"text": ":xliff:SAMPLES_Input_Text9",
+					"stroke": "automatic"
 				},
 				"Text10": {
 					"type": "text",
@@ -235,7 +236,8 @@
 					"textAlign": "right",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"text": "SampleSort : "
+					"text": ":xliff:SAMPLES_Input_Text10",
+					"stroke": "automatic"
 				},
 				"Text11": {
 					"type": "text",
@@ -246,7 +248,8 @@
 					"textAlign": "right",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"text": "Text : "
+					"text": ":xliff:SAMPLES_Input_Text11",
+					"stroke": "automatic"
 				},
 				"Text12": {
 					"type": "text",
@@ -257,7 +260,8 @@
 					"textAlign": "right",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"text": "Title : "
+					"text": ":xliff:SAMPLES_Input_Text12",
+					"stroke": "automatic"
 				},
 				"ID": {
 					"type": "input",
@@ -287,7 +291,8 @@
 						"onDisplayDetail",
 						"onDataChange",
 						"onPrintingDetail"
-					]
+					],
+					"stroke": "automatic"
 				},
 				"SampleSort": {
 					"type": "input",
@@ -300,7 +305,7 @@
 					"textAlign": "left",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "sunken",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -315,7 +320,8 @@
 						"onDisplayDetail",
 						"onDataChange",
 						"onPrintingDetail"
-					]
+					],
+					"stroke": "automatic"
 				},
 				"Text": {
 					"type": "input",
@@ -329,7 +335,7 @@
 					"textAlign": "left",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "sunken",
 					"styledText": true,
 					"allowFontColorPicker": true,
@@ -346,7 +352,8 @@
 						"onDisplayDetail",
 						"onDataChange",
 						"onPrintingDetail"
-					]
+					],
+					"stroke": "automatic"
 				},
 				"Title": {
 					"type": "input",
@@ -359,7 +366,7 @@
 					"textAlign": "left",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "sunken",
 					"contextMenu": "none",
 					"scrollbarVertical": "visible",
@@ -375,7 +382,8 @@
 						"onDisplayDetail",
 						"onDataChange",
 						"onPrintingDetail"
-					]
+					],
+					"stroke": "automatic"
 				}
 			}
 		}
