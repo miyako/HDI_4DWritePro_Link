@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="Project/Sources/Methods" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="BtnClose" resname="BtnClose">
+				<source>Close</source>
+				<target>Close</target>
+			</trans-unit>
+			<trans-unit id="Decorate_Name" resname="Decorate_Name">
+				<source>Name</source>
+				<target>Name</target>
+			</trans-unit>
+			<trans-unit id="Decorate_Date" resname="Decorate_Date">
+				<source>Date</source>
+				<target>Date</target>
+			</trans-unit>
+			<trans-unit id="Decorate_Value" resname="Decorate_Value">
+				<source>Value</source>
+				<target>Value</target>
+			</trans-unit>
+			<trans-unit id="Decorate_Total" resname="Decorate_Total">
+				<source>Total</source>
+				<target>Total</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

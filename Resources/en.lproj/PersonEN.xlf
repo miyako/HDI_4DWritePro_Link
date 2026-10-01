@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="Project/Sources/TableForms/1/Input/form.4DForm" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="Person_Input_Text5" resname="Person_Input_Text5">
+				<source>Person</source>
+				<target>Person</target>
+			</trans-unit>
+			<trans-unit id="Person_Input_Text7" resname="Person_Input_Text7">
+				<source>ID : </source>
+				<target>ID : </target>
+			</trans-unit>
+			<trans-unit id="Person_Input_Text8" resname="Person_Input_Text8">
+				<source>OB_Field : </source>
+				<target>OB_Field : </target>
+			</trans-unit>
+			<trans-unit id="Person_Output_S1_Text" resname="Person_Output_S1_Text">
+				<source>ID : </source>
+				<target>ID : </target>
+			</trans-unit>
+			<trans-unit id="Person_Output_S2_Text" resname="Person_Output_S2_Text">
+				<source>OB_Field : </source>
+				<target>OB_Field : </target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
